@@ -33,7 +33,7 @@ The document tree of this repository takes the following format:
 ```
 
 Some things to notice:
-- There is a single `data` direcotry across all tutorials. This is designed to encourage re-use of datasets.
+- There is a single `data` directory across all tutorials. This is designed to encourage re-use of datasets.
 - Within the `tutorials` direcotry there is a unique directory for every tutorial and a `template` directory, containing a markdown and a notebook template (coming soon). 
 - Each tutorial is named with its topic and date with the format `TOPIC_YYYY_MM_DD`. 
 - If a new tutorial on the same topic is contributed, a new directory with the new date is added (i.e. the pre-existing directory is not edited). 
