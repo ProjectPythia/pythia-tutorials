@@ -1,0 +1,13 @@
+name: pythia-tutorials
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - xarray
+  - netCDF4
+  - jupyter
+  - jupyterlab
+  - mamba
+  - dask
