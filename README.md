@@ -34,7 +34,7 @@ The document tree of this repository takes the following format:
 
 Some things to notice:
 - There is a single `data` direcotry across all tutorials. This is designed to encourage re-use of datasets.
-- Within the `tutorials` direcotry there is a unique directory for every tutorial and a `template` directory, containing a markdown and a notebook template. 
+- Within the `tutorials` direcotry there is a unique directory for every tutorial and a `template` directory, containing a markdown and a notebook template (coming soon). 
 - Each tutorial is named with its topic and date with the format `TOPIC_YYYY_MM_DD`. 
 - If a new tutorial on the same topic is contributed, a new directory with the new date is added (i.e. the pre-existing directory is not edited). 
 - Multi-session tutorials may have a unique directory for each session, preserving the state of the tutorial during each lesson (for example, `matplotlib_part1_YYYY_MM_DD` and `matplotlib_part2_YYYY_MM_DD`)
@@ -44,8 +44,8 @@ Some things to notice:
 ## Contribution
 
 To add your tutorial directory please:
-  1. Review the tutorial template.
+  1. Review the tutorial template (coming soon).
   2. Upload your notebook(s) and corresponding markdown file to a unique directory with the naming convention `TOPIC_YYYY_MM_DD`.
   3. Edit the content table (coming soon) to include your content.
 
-If you would like to host a tutorial through the Project Pythia Tutorial Seminar Series, please reach out to us here on GitHub or by emailing `projedtpythia@ucar.edu`. Contributors Guide coming soon.
+If you would like to host a tutorial through the Project Pythia Tutorial Seminar Series, please reach out to us here on GitHub or by emailing `projectpythia@ucar.edu`. Contributors Guide coming soon.
