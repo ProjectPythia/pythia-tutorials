@@ -1,2 +1,2 @@
-# Pythia-Tutorials
+# pythia-tutorials
 A single repository to host community-contributed Pythia tutorial content (notebooks, data, and markdown).
