@@ -43,9 +43,6 @@ Some things to notice:
 
 ## Contribution
 
-To add your tutorial directory please:
-  1. Review the tutorial template (coming soon).
-  2. Upload your notebook(s) and corresponding markdown file to a unique directory with the naming convention `TOPIC_YYYY_MM_DD`.
-  3. Edit the content table (coming soon) to include your content.
+For instructions on how to add your tutorial to this repository please visit `contributing.md`.
 
 If you would like to host a tutorial through the Project Pythia Tutorial Seminar Series, please reach out to us here on GitHub or by emailing `projectpythia@ucar.edu`. Contributors Guide coming soon.
